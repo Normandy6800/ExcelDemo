@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ExcelToObject/Editor/ExcelTools.cs">
+    <Files>
+      <File FileName="Assets/ExcelToObject/Editor/ExcelTools.cs" Line="154" Column="41" />
+      <File FileName="Assets/ExcelToObject/Editor/ExcelUtility.cs" Line="370" Column="24" />
+      <File FileName="Assets/ExcelToObject/TabMgr.cs" Line="24" Column="19" />
+      <File FileName="Assets/ExcelToObject/Demo.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/liliangliang/ExcelDemo/Assets/Xudawang Lab/ExcelToObject/Tools/Excel2Unity/Editor/ExcelUtility.cs" relfile="Assets/Xudawang Lab/ExcelToObject/Tools/Excel2Unity/Editor/ExcelUtility.cs" line="232" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
